@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido utilizando Java e Spring Boot e tem como objetivo criar uma plataforma de blog pessoal onde os usuários podem interagir por meio de postagens categorizadas por temas.
 
-🚀 ## Funcionalidades
+## 🚀  Funcionalidades
 
 🔐 Autenticação JWT para garantir segurança na aplicação.
 
