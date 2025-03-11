@@ -12,7 +12,7 @@ Este projeto foi desenvolvido utilizando Java e Spring Boot e tem como objetivo 
 
 📂 Temas: Organização e classificação das postagens por temas específicos.
 
-🛠️ ## Tecnologias Utilizadas
+## 🛠️  Tecnologias Utilizadas
 
 Java 17
 
@@ -26,7 +26,7 @@ MySQL (para persistência de dados)
 
 Swagger (para documentação da API)
 
-📋 ##  Entidades
+## 📋   Entidades
 
 Usuário: Controla as informações pessoais e credenciais de acesso.
 
@@ -34,7 +34,7 @@ Postagens: Representa o conteúdo publicado pelos usuários.
 
 Temas: Define categorias para organizar as postagens.
 
-🔧 ## Como Executar o Projeto
+## 🔧  Como Executar o Projeto
 
 Clone o repositório:
 
@@ -52,7 +52,7 @@ Execute a aplicação e acesse o Swagger para testar os endpoints:
 
 http://localhost:8080/swagger-ui.html
 
-🧩 ## Endpoints Principais
+## 🧩 Endpoints Principais
 
 /usuarios - Cadastro e login de usuários.
 
@@ -60,7 +60,7 @@ http://localhost:8080/swagger-ui.html
 
 /temas - CRUD completo para temas.
 
-🤝##  Contribuição
+##🤝  Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests. 😊
 
